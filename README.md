@@ -4,15 +4,15 @@ in it. We are using NLP, we have used dialogflow to make interaction with chatbo
 
 ### How to use?
 
-Step: 01
+### Step: 01
 Run: python train.py
 
-Step: 02
+### Step: 02
 Run: python chat.py
 
 ### start chatting with Bot
 
-Step: 03
+### Step: 03
 
 To Exit the bot
 Run: Quit
