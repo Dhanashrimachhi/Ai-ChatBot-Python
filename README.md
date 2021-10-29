@@ -8,13 +8,14 @@ in it. We are using NLP, we have used dialogflow to make interaction with chatbo
 Run: python train.py
 
 ### Step: 02
-Run: python chat.py
+Run: python ChatBot.py
 
-### start chatting with Bot
+### start Chatting with Bot
 
 ### Step: 03
 
-To Exit the bot
+To Exit the Bot
+<br>
 Run: Quit
 
 
