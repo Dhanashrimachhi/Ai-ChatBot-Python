@@ -11,6 +11,7 @@ Run: python train.py
 Run: python ChatBot.py
 
 ### start Chatting with Bot
+![Example](https://user-images.githubusercontent.com/90027812/139523151-27c8fcf7-3ddf-463b-b4e7-57b8d1b81280.png)
 
 ### Step: 03
 
