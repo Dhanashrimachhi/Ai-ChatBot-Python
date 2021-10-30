@@ -5,10 +5,10 @@ in it. We are using NLP, we have used dialogflow to make interaction with chatbo
 # How to use?
 
 # Step: 01<h3>
-Run: python **<code>train.py</code>**
+Run: **<code>python train.py</code>**
 
 # Step: 02<h3>
-Run: python **<code>ChatBot.py</code>**
+Run: **<code>python ChatBot.py</code>**
 
 # start Chatting with Bot<h5>
 ![Example](https://user-images.githubusercontent.com/90027812/139523151-27c8fcf7-3ddf-463b-b4e7-57b8d1b81280.png)
