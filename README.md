@@ -11,7 +11,7 @@ Run: **<code>python train.py</code>**
 Run: **<code>python ChatBot.py</code>**
 
 # start Chatting with Bot<h5>
-![Example](https://user-images.githubusercontent.com/90027812/139523151-27c8fcf7-3ddf-463b-b4e7-57b8d1b81280.png) 
+<img src="https://github.com/Dhanu06/Ai-ChatBot-Python/blob/main/Demo/Example.png" width="650" height="380"/>
 
 # Step: 03<h3>
 To Exit the Bot
