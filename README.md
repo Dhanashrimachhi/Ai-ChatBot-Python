@@ -6,13 +6,13 @@ in it. We are using NLP, we have used dialogflow to make interaction with chatbo
 
 ### Step: 01
 Run: python train.py
-
+<hr>
 ### Step: 02
 Run: python ChatBot.py
-
+<hr>
 ### start Chatting with Bot
 ![Example](https://user-images.githubusercontent.com/90027812/139523151-27c8fcf7-3ddf-463b-b4e7-57b8d1b81280.png)
-
+<hr>
 ### Step: 03
 
 To Exit the Bot
